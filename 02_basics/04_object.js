@@ -73,3 +73,29 @@ console.log(tinderUser)
 console.log(Object.entries(tinderUser))
 
 console.log(tinderUser.hasOwnProperty('isloagged'))
+
+
+const course = {
+    coursename : "js in hindi",
+    price: "999",
+    courseInstructor: "Ashraful",
+
+}
+
+// course.courseInstructor
+
+const {courseInstructor:i} = course
+
+console.log(i)
+
+
+
+// {
+//     "name": "ashraful",
+//     "courseName" : "js in Bangla",
+//     "Price": "free"
+// }
+
+
+
+  
