@@ -86,7 +86,7 @@ const course = {
 
 const {courseInstructor:i} = course
 
-console.log(i)
+// console.log(i)
 
 
 
@@ -98,4 +98,7 @@ console.log(i)
 
 
 
-  
+//   let data = fetch("https://api.github.com/users/hiteshchoudhary")
+// data.then((Response)=>{
+//     console.log(Response)
+// })
