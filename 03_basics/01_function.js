@@ -134,3 +134,5 @@ function returnSecondValue(getArray){
 
 // console.log(returnSecondValue(myNewArrya))
 console.log(returnSecondValue([500,200,300,100]))
+
+
